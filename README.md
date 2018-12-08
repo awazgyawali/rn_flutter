@@ -1,16 +1,16 @@
 # rn_flutter
 
-A new Flutter project.
+A projects that merges React Native and Flutter in a single android application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Simply run the following command to generate the apk for android
 
-A few resources to get you started if this is your first Flutter project:
+> ./gradlew assembleRelease
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Or if you just want to test the apk, download it from here. https://github.com/awazgyawali/rn_flutter/raw/master/android/app/release/app-release.apk
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+## Issues
+
+- This project doesnt handle the case for ios, thus expert IOS developer can build that PRs are always welcomed.
